@@ -1,1 +1,1 @@
-# Flower-Classification-System-using-CNN
+# Flower Classification System using CNN
